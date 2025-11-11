@@ -1,0 +1,2 @@
+/obadmin generator import gen
+/ob generator (only 4 without next page)
